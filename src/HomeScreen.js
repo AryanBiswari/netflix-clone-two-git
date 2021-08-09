@@ -1,9 +1,11 @@
 import React from 'react';
 import "./HomeScreen.css";
+import Nav from './Nav';
 function HomeScreen() {
     return (
-        <div>
-            <h1>HomeScreen</h1>
+        <div className="homeScreen">
+            <Nav />
+            
         </div>
     )
 }
