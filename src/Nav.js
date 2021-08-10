@@ -27,5 +27,3 @@ function Nav() {
 }
 
 export default Nav
-
-/*resume at 59.09 */
